@@ -1,6 +1,6 @@
-# Attendance Management System
+# School Management System
 
-A web-based Attendance and Learning Management System developed using PHP and MySQL.
+A web-based Learning Management System developed using PHP and MySQL.
 The system supports separate roles for teachers and students.
 
 ## Features
